@@ -1,10 +1,10 @@
 ﻿int a = -6;
-uint b= 7;
+uint ui= 7;
 bool t = true;
-byte m = 3;
+byte b = 3;
 sbyte sb = -23; /*-127|127*/
 long l = -89000345;
-ulong r = 89000345;
+ulong ul = 89000345;
 string s = "hello";
 char c = 'c';
 short sh = -9;
@@ -15,4 +15,4 @@ double d = 3.5;
 object o = new object ();
 
 Console.WriteLine(a);
-Console.WriteLine($ "bool: {$$$$$$$$$$$$$$}");
+Console.WriteLine();
