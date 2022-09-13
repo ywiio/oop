@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\oop\\first\\ffirst\\ffirst.csproj",
-      "projectName": "ffirst",
-      "projectPath": "D:\\oop\\first\\ffirst\\ffirst.csproj",
+      "projectUniqueName": "D:\\oop\\oop\\first\\first\\first.csproj",
+      "projectName": "first",
+      "projectPath": "D:\\oop\\oop\\first\\first\\first.csproj",
       "packagesPath": "C:\\Users\\Zlata\\.nuget\\packages\\",
-      "outputPath": "D:\\oop\\first\\ffirst\\obj\\",
+      "outputPath": "D:\\oop\\oop\\first\\first\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Zlata\\AppData\\Roaming\\NuGet\\NuGet.Config",
