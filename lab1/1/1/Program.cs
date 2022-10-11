@@ -216,9 +216,9 @@ namespace Lab_1
 
             //3.c
             int[][] arrayC = new int[3][];
-            arrayC[0] = new int[2];
-            arrayC[1] = new int[3];
-            arrayC[2] = new int[4];
+            arrayC[0] = new int[2]; // G K
+            arrayC[1] = new int[3]; // G K G
+            arrayC[2] = new int[4]; // G K G T
             for (int i = 0; i < arrayC.Length; i++)
             {
                 for (int j = 0; j < arrayC[i].Length; j++)
